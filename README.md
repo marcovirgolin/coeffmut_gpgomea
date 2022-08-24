@@ -22,3 +22,4 @@ A copy of [the GP benchmark collection by Luiz Otavio Vilas Boas Oliveira et al.
 
 To reproduce the first part of the experiments, use `run.py` (`runbatch.sh` calls `run.py`).
 To reproduce the second part, you must use `SRBench`, see the README of `SRBench`'s repo.
+To obtain plots and info, use `analysis.ipynb`.
