@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+vladislavleva-1,5,0.044951195663096,0.0604223518502096,0.96014728304475,0.9279936678191878,-0.081247+0.109655*(exp((sin((x0--13.268285))-cos((x1+19.512636))))),0.109655*exp(sin(x0 + 13.268285) - cos(x1 + 19.512636)) - 0.081247,10,16,123.8663444519043,1.0_es,afteronce,False,True,False,False

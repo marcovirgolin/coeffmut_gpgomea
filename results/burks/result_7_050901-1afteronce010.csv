@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+burks,7,0.0320448078723069,0.0320448078723069,0.999884783589519,0.999884783589519,0.043315+-1.866705*((((x0*(x0/x0))+(1.517000*(x0*x0)))/log((sin(x0)*(-1.859828/-2.512938))))),(-2.831791485*x0**2 - 1.866705*x0 + 0.043315*log(sin(x0)) - 0.0130364538789283)/(log(sin(x0)) - 0.300968576219053),19,23,65.31216287612915,0.5_0.9_0.1_-1,afteronce,False,True,False,False

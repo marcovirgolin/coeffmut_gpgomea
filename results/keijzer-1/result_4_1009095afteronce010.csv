@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+keijzer-1,4,5.548150921847822e-07,4.530715310780202e-07,0.999999999973922,0.9999999999826096,-0.000000+1.898535*(((x0*cos((x0/x0)))*(sin((6.283181*x0))/(sqrt(3.168000)+(4.414903/2.693000))))),0.555242918707971*x0*sin(6.283181*x0)*cos(1),18,9,32.62586164474487,1.0_0.9_0.9_5,afteronce,False,True,False,False

@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+keijzer-11,1,0.34382894058109853,0.5702187995243201,0.9891219406838616,0.9700808240805034,-0.151671+0.619064*((cos(((x0+x1)-(x1*x0)))+((log(4.729318)*(x1*x0))+cos(exp(x1))))),0.96188988473647*x0*x1 + 0.619064*cos(-x0*x1 + x0 + x1) + 0.619064*cos(exp(x1)) - 0.151671,19,21,39.91518259048462,0.5_0.1_0.1_5,within,False,True,False,False

@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+burks,9,0.036005529314100476,0.036005529314100476,0.9998545420721845,0.9998545420721845,-1.060187+46.368424*(exp(((cos(x0)/exp(-0.179207))*(sin(-0.191869)+(x0-3.011000))))),46.368424*exp((1.19626834608784*x0 - 3.83008510228018)*cos(x0)) - 1.060187,13,13,49.372942209243774,0.5_0.9_0.1_5,afteronce,False,True,False,False

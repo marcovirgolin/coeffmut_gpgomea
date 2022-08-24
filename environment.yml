@@ -1,0 +1,11 @@
+name: coeffmutgomea_analysis
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - dill
+  - git-lfs
+  - pip:
+    - pandas 
+    - seaborn
+    - scikit-learn

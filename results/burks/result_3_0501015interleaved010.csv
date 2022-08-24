@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+burks,3,0.018562971448478408,0.018562971448478408,0.9999613371388243,0.9999613371388243,-0.012809+47.864187*(((((0.599630+x0)/(8.134227-x0))*x0)*(((x0*x0)+(-1.854073+2.377722))*sqrt(-0.379596)))),(-29.4897778025626*I*x0*(x0 + 0.59963)*(x0**2 + 0.523649) - 0.012809*x0 + 0.104191313643)/(x0 - 8.134227),20,23,14.310573101043701,0.5_0.1_0.1_5,interleaved,False,True,False,False

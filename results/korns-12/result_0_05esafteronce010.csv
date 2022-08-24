@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+korns-12,0,1.0555759505049234,1.054779536192704,4.979612492761465e-05,0.001558118151109955,1.989522+-0.003640*(sqrt((sin((x3*76.786874))*(x3/log(x0))))),1.989522 - 0.00364*sqrt(x3*sin(76.786874*x3)/log(x0)),10,16,205.69556307792664,0.5_es,afteronce,False,True,False,False

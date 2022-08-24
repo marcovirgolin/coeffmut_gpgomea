@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+korns-11,2,7.8375523015712965,7.7227487768433365,0.0004626849064044425,0.029530428864827485,6.908236+0.168224*((cos(((x3-x1)+cos(x4)))+sin(((x0/-28.785259)-(242.511706+x2))))),-0.168224*sin(0.034740003555292*x0 + x2 + 242.511706) + 0.168224*cos(-x1 + x3 + cos(x4)) + 6.908236,16,21,52.028772592544556,0.5_es,interleaved,False,True,False,False

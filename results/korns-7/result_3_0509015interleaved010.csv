@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+korns-7,3,1385.0072835263443,1383.4377856384053,1.0,1.0,495.960449+-213.809410*(exp((((x0/-1136.913918)+(x0/2.204380))-x0))),495.960449 - 213.80941*exp(-0.547237280089805*x0),10,8,33.01200580596924,0.5_0.9_0.1_5,interleaved,False,True,False,False

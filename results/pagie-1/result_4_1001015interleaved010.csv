@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+pagie-1,4,0.4791782433908737,0.4791782433908737,6.477041125663163e-13,6.477041125663163e-13,1.573697+-0.000000*(((((-1.910469+7.837980)+log(x0))/exp((x0*x0)))-(sqrt((x1*-10.982673))/(log(x1)*-7.565899)))),1.57369700000000,21,1,46.118993282318115,1.0_0.1_0.1_5,interleaved,False,True,False,False

@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+korns-11,8,7.8385255386736885,7.722520428928896,0.00021443209447968847,0.029587818126804555,6.992728+0.000167*((((sin(x2)-(x0/x0))+cos((x3-x1)))*(exp(sqrt(x2))+((x2/x3)-(x0-222.337234))))),(6.992728*x3 + 0.000167*(x2 + x3*(-x0 + exp(sqrt(x2)) + 222.337234))*(sin(x2) + cos(x1 - x3) - 1))/x3,23,33,145.69436526298523,0.5_0.1_0.9_5,afteronce,False,True,False,False

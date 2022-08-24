@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+r1,4,0.0327152847262044,0.03940287807202524,0.9998614297495371,0.9997989868437573,3.587365+-4.845549*(cos((((x0+0.020874)+(x0/x0))+(sin(x0)*sin(x0))))),3.587365 - 4.845549*cos(x0 + sin(x0)**2 + 1.020874),14,12,40.769893169403076,1.0_0.9_0.1_-1,within,False,True,False,False

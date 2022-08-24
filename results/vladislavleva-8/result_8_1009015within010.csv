@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+vladislavleva-8,8,0.42404108275506036,1.0281679266889674,0.9396785146787145,0.6453628228170534,0.027784+0.308717*(((sqrt(log(x0))+sin((-2.543468-x1)))*exp((cos(x0)/cos(19.974161))))),0.308717*(sqrt(log(x0)) - sin(x1 + 2.543468))*exp(2.31732091116601*cos(x0)) + 0.027784,15,20,105.29662275314331,1.0_0.9_0.1_5,within,False,True,False,False

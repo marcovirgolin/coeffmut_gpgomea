@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+keijzer-14,4,0.07134352684986393,0.4388332076687623,0.9939480841168298,0.7710278288486155,2.544028+-0.827847*(log((((x0/10.250430)/(x1+x1))-((x0*x0)+(x1*x1))))),2.544028 - 0.827847*log(-x0**2 + 0.0487784414897717*x0/x1 - x1**2),16,22,39.60556101799011,1.0_0.1_0.1_-1,within,False,True,False,False

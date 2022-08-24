@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+keijzer-5,5,5.300759158587596e-07,4.861832648351617e-07,0.9999999999991819,0.9999999999993118,-166790139.470864+16563621.329133*(((((x2/-276060.681396)/(9.999999-x0))/((x1+x1)*(x1/x0)))-log(sqrt(sin(-0.000000))))),(29.9999645827379*x0*x2 + zoo*x1**2*(x0 - 9.999999))/(x1**2*(x0 - 9.999999)),20,22,35.22936224937439,0.5_0.9_0.1_5,interleaved,False,True,False,False

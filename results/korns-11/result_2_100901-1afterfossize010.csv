@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+korns-11,2,7.838770672552516,7.723245266666407,0.0001518986128303812,0.02940564330782358,6.906901+0.136532*(sin((exp((-4.525547/x2))-((x3-x1)+sin(x4))))),0.136532*sin(x1 - x3 - sin(x4) + exp(-4.525547/x2)) + 6.906901,12,20,35.76265859603882,1.0_0.9_0.1_-1,afterfossize,False,True,False,False

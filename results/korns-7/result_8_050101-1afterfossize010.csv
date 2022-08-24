@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+korns-7,8,2567264.0648016427,2564115.3964253184,0.9999999999999706,0.9999999999999707,-718649.479492+-213.811731*((exp(((x0*0.452763)-x0))-((log(x3)+sqrt(x0))*((x0+-29.213541)*x0)))),((213.811731*x0*(sqrt(x0) + log(x3))*(x0 - 29.213541) - 718649.479492)*exp(0.547237*x0) - 213.811731)*exp(-0.547237*x0),18,26,32.920156955718994,0.5_0.1_0.1_-1,afterfossize,False,True,False,False

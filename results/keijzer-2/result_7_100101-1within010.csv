@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+keijzer-2,7,1.8183462632957638e-06,1.6557557537095284e-06,0.9999999999409003,0.9999999999509968,303482524.408299+19322.514571*(((sin((6.283190*x0))*(x0*exp(-11.072998)))-exp(9.661808))),0.300000317220661*x0*sin(6.28319*x0) + 101.219603896141,12,9,20.551446437835693,1.0_0.1_0.1_-1,within,False,True,False,False

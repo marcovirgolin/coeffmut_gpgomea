@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+korns-4,7,1.3513963741828427e-15,1.3504109576715575e-15,1.0,1.0,-2.300000+123499611173477186269490765103104.000000*(sin(sin((exp(-75.934012)*sin(x2))))),123499611173477186269490765103104.0*sin(sin(1.05263449938927e-33*sin(x2))) - 2.3,7,10,36.311280727386475,0.5_0.9_0.1_5,afterfossize,False,True,False,False

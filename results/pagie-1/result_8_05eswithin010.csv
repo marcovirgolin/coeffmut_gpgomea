@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+pagie-1,8,0.3487979523540228,0.3487979523540228,0.4701491063313188,0.4701491063313188,1.754695+-0.102347*((sin(sin((6.201037/x1)))-(((x1*-10.376647)/x1)/exp((x0*x0))))),-0.102347*sin(sin(6.201037/x1)) + 1.754695 - 1.062018690509*exp(-x0**2),16,19,142.6900327205658,0.5_es,within,False,True,False,False

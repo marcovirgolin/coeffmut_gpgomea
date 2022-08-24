@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+r2,1,0.012545381539975605,0.012076513860499762,0.999492785553872,0.999529990068655,0.979253+0.000001*(((log((x0+x0))+exp(sin(x0)))/(log((x0/x0))/((2.128062*x0)-(-0.319824+-0.000071))))),zoo*(exp(sin(x0)) + log(x0) + 1),21,9,28.644574642181396,1.0_0.9_0.9_5,within,False,True,False,False

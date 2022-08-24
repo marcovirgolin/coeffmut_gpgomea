@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+r1,4,0.04630838609747414,0.0396087196553237,0.9997223562610238,0.999796881162891,4.431731+-4.415849*(sin((sin((0.494954-x0))*log((x0+6.413925))))),4.415849*sin(log(x0 + 6.413925)*sin(x0 - 0.494954)) + 4.431731,10,14,15.39826488494873,1.0_0.9_0.9_5,interleaved,False,True,False,False

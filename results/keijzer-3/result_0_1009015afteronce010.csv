@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+keijzer-3,0,5.321638735886721e-07,4.92637988673003e-07,0.9999999999978242,0.9999999999981354,-0.300000+0.300000*(((sin((x0*6.283185))*x0)+cos(exp((-8.455032+x0))))),0.3*x0*sin(6.283185*x0) + 0.3*cos(0.000212826772029648*exp(x0)) - 0.3,12,16,120.12554502487183,1.0_0.9_0.1_5,afteronce,False,True,False,False

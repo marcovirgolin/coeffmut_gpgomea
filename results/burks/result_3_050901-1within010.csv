@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+burks,3,0.03911812356936952,0.03911812356936952,0.9998283060369444,0.9998283060369444,-0.012289+-0.000090*(((exp(sin(x0))-sqrt((x0/2.040665)))/(((-10.511650-x0)/sqrt(x0))*(cos(x0)/(x0/0.000001))))),(90.0*x0**(3/2)*exp(sin(x0))/cos(x0) - 63.0023358549035*x0**2/cos(x0) - 0.012289*x0 - 0.12917766685)/(x0 + 10.51165),22,32,72.14913940429688,0.5_0.9_0.1_-1,within,False,True,False,False

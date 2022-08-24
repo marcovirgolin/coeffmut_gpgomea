@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+r2,7,0.010710071219891279,0.006291761225868463,0.9996303347866402,0.9998724241907874,0.989070+4509386.011849*((((exp(-0.131476)*sin(x0))*(log(1.368000)+sin(x0)))*(((7.476134+x0)*(-0.000000*x0))*cos(x0)))),0.989070000000000,22,1,57.30652713775635,0.5_0.9_0.1_-1,within,False,True,False,False

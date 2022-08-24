@@ -1,0 +1,2 @@
+dataset,seed,train_rmse,test_rmse,train_r2,test_r2,model,simpl_model,size,simpl_size,runtime,coeff_mut,gom_coeff_mut_strat,ims,linear_scaling,data_standardization,quick_test
+r2,1,0.006220590063421649,0.004901956399157752,0.9998752940913841,0.9999225604617838,1.002385+0.000001*((((sqrt(x0)+(-1.794629/-14.046104))*(cos(x0)*sqrt(x0)))*(((x0+x0)+exp(x0))/log((x0/x0))))),zoo*sqrt(x0)*(sqrt(x0) + 0.127767030629988)*(2*x0 + exp(x0))*cos(x0) + 1.002385,24,20,17.41570806503296,0.5_0.1_0.1_5,afterfossize,False,True,False,False
